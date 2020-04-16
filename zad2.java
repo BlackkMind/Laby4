@@ -5,9 +5,11 @@ import java.util.Scanner;
 public class zad2  {
 
     public static void main(String[] args) {
-
-        Scanner scanner = new Scanner(System.in);
+        
         int lit;
+        
+        Scanner scanner = new Scanner(System.in);
+        
         System.out.println("Konwenter lit na liczby \n wpisz LITERY:  ");
 
 
